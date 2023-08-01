@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homeaway InterviewChallenge</string>
+    <string name="query_prompt">What would you like to find?</string>
+    <string name="clear_icon">clear search</string>
+</resources>
